@@ -1,0 +1,29 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Stock market charts and digital trading background",
+      "imageUrl": "https://picsum.photos/seed/msquare-stock/1920/1080",
+      "imageHint": "stock trading"
+    },
+    {
+      "id": "course-thumb",
+      "description": "Premium stock trading course thumbnail",
+      "imageUrl": "https://picsum.photos/seed/trading-course/800/600",
+      "imageHint": "finance market"
+    },
+    {
+      "id": "mentor-bg",
+      "description": "AI Personal Mentor visualization",
+      "imageUrl": "https://picsum.photos/seed/ai-mentor/800/600",
+      "imageHint": "artificial intelligence"
+    },
+    {
+      "id": "student-1",
+      "description": "Happy student portrait",
+      "imageUrl": "https://picsum.photos/seed/student1/200/200",
+      "imageHint": "professional person"
+    }
+  ]
+}
